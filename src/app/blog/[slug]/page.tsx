@@ -1,7 +1,6 @@
 import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
-import { Metadata } from "next";
 
 // Tipagem dos parâmetros da página
 type PostPageProps = {
