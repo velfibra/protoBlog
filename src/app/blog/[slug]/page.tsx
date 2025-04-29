@@ -2,17 +2,20 @@ import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 
+// Geração dos slugs para rotas estáticas
 export async function generateStaticParams() {
   const posts = await getAllPosts();
   return posts.map((post) => ({ slug: post.slug }));
 }
 
+// Página de post
 export default async function PostPage({
   params,
 }: {
   params: { slug: string };
 }) {
   const post = await getPostBySlug(params.slug);
+
   if (!post) return notFound();
 
   return (
