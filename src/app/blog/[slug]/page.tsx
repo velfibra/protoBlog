@@ -1,21 +1,21 @@
 import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
+import { GetStaticPropsContext } from "next";
 
-// Geração dos slugs para rotas estáticas
+// Geração de parâmetros estáticos
 export async function generateStaticParams() {
   const posts = await getAllPosts();
   return posts.map((post) => ({ slug: post.slug }));
 }
 
-// Página de post
+// Função da página do post
 export default async function PostPage({
   params,
 }: {
-  params: { slug: string };
+  params: { slug: string }; // A tipagem agora está correta para o parâmetro slug
 }) {
   const post = await getPostBySlug(params.slug);
-
   if (!post) return notFound();
 
   return (
