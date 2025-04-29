@@ -2,23 +2,16 @@ import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 
-// Definição dos tipos corretos para os parâmetros
-interface PostPageProps {
-  params: {
-    slug: string;
-  };
-}
-
 // Geração dos parâmetros estáticos - agora é uma Promise corretamente resolvida
-export async function generateStaticParams(): Promise<{ slug: string }[]> {
+export async function generateStaticParams() {
   const posts = await getAllPosts();
-  return posts.map((post: { slug: string }) => ({
+  return posts.map((post) => ({
     slug: post.slug,
   }));
 }
 
 // Página principal
-export default async function PostPage({ params }: PostPageProps) {
+export default async function PostPage({ params }) {
   const post = await getPostBySlug(params.slug);
 
   // Verifica se o post existe
