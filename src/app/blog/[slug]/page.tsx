@@ -2,11 +2,9 @@ import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 
-// Definição correta dos parâmetros para a página
+// Corrigir a tipagem para compatibilidade com o Next.js 15
 interface PostPageProps {
-  params: {
-    slug: string;
-  };
+  params: { slug: string };
 }
 
 // Geração dos parâmetros estáticos
@@ -17,15 +15,12 @@ export async function generateStaticParams() {
   }));
 }
 
-// Página principal
 export default async function PostPage({ params }: PostPageProps) {
   const post = await getPostBySlug(params.slug);
 
-  // Verifica se o post existe
   if (!post) return notFound();
 
-  // Garantir que 'content' seja uma string
-  const content = await post.content;
+  const content = post.content;
 
   return (
     <main className="bg-gradient-to-bl from-[#1A0530] via-[#48088b] to-[#1A0530] min-h-screen flex flex-col items-center justify-start p-8 pb-20 sm:p-20 font-[family-name:var(--font-geist-sans)] overflow-x-hidden">
