@@ -1,20 +1,23 @@
 import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
+import { Metadata } from "next";
 
-// Geração de parâmetros estáticos
+// Tipagem dos parâmetros da página
+type PostPageProps = {
+  params: {
+    slug: string;
+  };
+};
+
+// Geração de parâmetros estáticos para o Next.js
 export async function generateStaticParams() {
   const posts = await getAllPosts();
-  return posts.map((post) => ({ slug: post.slug }));
+  return posts.map((post: { slug: string }) => ({ slug: post.slug }));
 }
 
-// Função de página
-export default async function PostPage({
-  params,
-}: {
-  params: { slug: string }; // Tipagem correta para o parâmetro 'slug'
-}) {
-  // Carregar o post com base no slug
+// Página com tipagem correta
+export default async function PostPage({ params }: PostPageProps) {
   const post = await getPostBySlug(params.slug);
   if (!post) return notFound();
 
