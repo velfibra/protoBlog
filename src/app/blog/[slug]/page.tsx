@@ -8,12 +8,13 @@ export async function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
 }
 
-// Função da página do post
+// Função de página
 export default async function PostPage({
   params,
 }: {
-  params: { slug: string }; // A tipagem agora está correta para o parâmetro slug
+  params: { slug: string }; // Tipagem correta para o parâmetro 'slug'
 }) {
+  // Carregar o post com base no slug
   const post = await getPostBySlug(params.slug);
   if (!post) return notFound();
 
