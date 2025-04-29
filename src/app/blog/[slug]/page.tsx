@@ -1,7 +1,6 @@
 import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
-import { GetStaticPropsContext } from "next";
 
 // Geração de parâmetros estáticos
 export async function generateStaticParams() {
