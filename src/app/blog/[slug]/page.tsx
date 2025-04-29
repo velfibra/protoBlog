@@ -2,14 +2,14 @@ import { getPostBySlug, getAllPosts } from "@/app/Lib/post";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 
-// Define corretamente os parâmetros esperados
+// Definição correta dos parâmetros para a página
 interface PostPageProps {
   params: {
     slug: string;
   };
 }
 
-// Geração dos parâmetros para build estático
+// Geração dos parâmetros estáticos
 export async function generateStaticParams() {
   const posts = await getAllPosts();
   return posts.map((post: { slug: string }) => ({
@@ -17,10 +17,15 @@ export async function generateStaticParams() {
   }));
 }
 
-// Página principal com tipagem correta
+// Página principal
 export default async function PostPage({ params }: PostPageProps) {
   const post = await getPostBySlug(params.slug);
+
+  // Verifica se o post existe
   if (!post) return notFound();
+
+  // Garantir que 'content' seja uma string
+  const content = await post.content;
 
   return (
     <main className="bg-gradient-to-bl from-[#1A0530] via-[#48088b] to-[#1A0530] min-h-screen flex flex-col items-center justify-start p-8 pb-20 sm:p-20 font-[family-name:var(--font-geist-sans)] overflow-x-hidden">
@@ -35,7 +40,7 @@ export default async function PostPage({ params }: PostPageProps) {
         />
         <div
           className="space-y-6 leading-relaxed [&_a]:text-blue-400 [&_a:hover]:underline [&_strong]:font-semibold"
-          dangerouslySetInnerHTML={{ __html: post.content }}
+          dangerouslySetInnerHTML={{ __html: content }}
         />
       </article>
     </main>
