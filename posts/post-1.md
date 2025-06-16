@@ -60,14 +60,16 @@ Sistemas Mesh modernos vêm com aplicativos intuitivos para controle da rede, ve
 
 A tecnologia de rede Mesh é baseada em uma topologia em malha (mesh topology), onde múltiplos dispositivos trabalham de forma colaborativa para expandir e fortalecer o sinal Wi-Fi. Cada ponto de acesso (ou “nó”) atua como um retransmissor, criando rotas alternativas para os dados e melhorando a cobertura e estabilidade da conexão.
 
-Segundo o [IEEE](https://ieeexplore.ieee.org/document/6883531), essa abordagem permite uma rede mais resiliente e adaptável, especialmente útil em ambientes com barreiras físicas ou múltiplos usuários simultâneos.
+Segundo o <a href="https://ieeexplore.ieee.org/document/1509968" target="_blank" rel="noopener noreferrer">
+IEEE
+</a>, essa abordagem permite uma rede mais resiliente e adaptável, especialmente útil em ambientes com barreiras físicas ou múltiplos usuários simultâneos.
 
-A empresa Cisco, referência global em redes, destaca que as redes Mesh são ideais para “ambientes que exigem escalabilidade, alta densidade de dispositivos e roaming contínuo sem interrupções” ([Cisco Networking Solutions](https://www.cisco.com/c/en/us/products/wireless/what-is-a-mesh-network.html)).
+A empresa Cisco, referência global em redes, destaca que as redes Mesh são ideais para “ambientes que exigem escalabilidade, alta densidade de dispositivos e roaming contínuo sem interrupções” (<a href="https://www.cisco.com/c/pt_br/support/docs/smb/wireless/CB-Wireless-Mesh/1768-tzep-Cisco-Business-Introduces-Wireless-Mesh-Networking.html" target="_blank">Cisco Network Solutions</a>).
 
 Já a TP-Link, fabricante de roteadores Mesh amplamente usados no Brasil, afirma que:
 
 “Ao contrário dos roteadores tradicionais com alcance limitado, o sistema Mesh proporciona Wi-Fi contínuo, mesmo em ambientes grandes ou com vários andares.”
-Fonte: [TP-Link Brasil – O que é Wi-Fi Mesh](https://www.tp-link.com/br/explanation/mesh-wifi/)
+Fonte: <a href="https://www.tp-link.com/br/mesh-wifi/" target="_blank">TP-Link Brasil – O que é Wi-Fi Mesh</a>
 
 ---
 
