@@ -10,8 +10,6 @@ Tudo começou há **12 anos**, com uma ideia simples, mas poderosa: levar intern
 
 Foi então que nasceu a **Vel Fibra**, com o objetivo de **mudar essa realidade** e entregar algo que fosse além do sinal de internet — entregar confiança, transparência e conexão humana.
 
----
-
 ## Nossa casa no coração do Guamá
 
 É do **bairro do Guamá**, um dos mais tradicionais de Belém, que coordenamos tudo com orgulho e dedicação.
@@ -21,8 +19,6 @@ Rua Barão de Igarapé Miri, 935 e 923 – Guamá, Belém – PA
 CEP: 66075-045
 
 Esse é o ponto de partida das nossas operações, onde recebemos clientes, treinamos nossos técnicos e planejamos melhorias constantes. Estamos próximos da comunidade porque acreditamos que **proximidade gera confiança**.
-
----
 
 ## Uma década de evolução constante
 
@@ -37,8 +33,6 @@ A nossa trajetória foi construída com:
 
 Nossa missão sempre foi clara: entregar uma conexão que acompanha os sonhos dos nossos clientes.
 
----
-
 ## Reconhecimento que vem de quem mais importa: nossos clientes
 
 Nos últimos **3 anos consecutivos**, fomos premiados pelas avaliações dos próprios usuários nas plataformas especializadas do setor. Isso inclui:
@@ -50,8 +44,6 @@ Nos últimos **3 anos consecutivos**, fomos premiados pelas avaliações dos pr�
 Esses prêmios refletem nosso esforço em garantir **entrega real**, sem promessas vazias. Cada feedback, cada elogio e até mesmo cada crítica construtiva nos ajuda a ser melhores a cada dia.
 
 Para conferir os detalhes desses reconhecimentos, acesse: [MelhorPlano.net - Premiação Vel Fibra em Belém](https://melhorplano.net/internet-banda-larga/pa/belem#premio)
-
----
 
 ## Mais do que internet: um compromisso com a comunidade
 
@@ -66,8 +58,6 @@ Por isso, a Vel Fibra atua de forma ativa na comunidade com:
 
 É o nosso jeito de devolver à sociedade tudo o que conquistamos juntos.
 
----
-
 ## O futuro é agora
 
 Mesmo com uma trajetória sólida de **12 anos**, nossa vontade de evoluir não para. A demanda por internet de qualidade cresce a cada dia — e com ela, cresce também nosso compromisso.
@@ -76,7 +66,5 @@ Estamos expandindo nossa estrutura, atualizando nossas tecnologias e mantendo o 
 
 Se você já faz parte da nossa história, obrigado por caminhar com a gente.  
 Se ainda não conhece nossa internet, venha descobrir **o que é conexão de verdade**.
-
----
 
 **Vel Fibra — Quem tem, fala bem.**

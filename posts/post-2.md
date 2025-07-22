@@ -10,15 +10,11 @@ Essas tecnologias podem até funcionar, mas estão longe de oferecer a performan
 
 A solução? **Fibra óptica**, a tecnologia mais moderna e eficiente para conexão com a internet.
 
----
-
 ## O que é a fibra óptica?
 
 A **fibra óptica** é um tipo de cabo feito com fios de vidro ou plástico, capazes de transmitir dados em alta velocidade usando **pulsos de luz**.
 
 Ao contrário dos cabos de cobre tradicionais, que usam eletricidade e sofrem interferência, a fibra é imune a ruídos e consegue manter a qualidade da conexão mesmo em longas distâncias.
-
----
 
 ## Quais são as vantagens da internet por fibra óptica?
 
@@ -38,8 +34,6 @@ Ideal para casas grandes e empresas, a fibra mantém o desempenho mesmo quando a
 
 A fibra é difícil de ser interceptada, tornando sua navegação mais segura contra invasões.
 
----
-
 Vel Fibra - Quem tem fala bem.
 Na Vel Fibra, não somos apenas um provedor de internet. Somos uma família, uma comunidade e um elo que conecta sonhos, pessoas e possibilidades. Desde o momento em que nossas portas virtuais se abriram, nosso compromisso tem sido claro: tornar a vida mais fácil, mais emocionante e mais conectada para todos.
 
@@ -50,8 +44,6 @@ Como uma empresa local, entendemos as necessidades e desafios da comunidade. É 
 - Jogadores que precisam de **ping baixo e zero lag**;
 - Famílias com muitos dispositivos conectados ao mesmo tempo;
 - Empresas que não podem se dar ao luxo de ter a internet caindo.
-
----
 
 ## A Velfibra leva fibra óptica até você! 🚀
 
