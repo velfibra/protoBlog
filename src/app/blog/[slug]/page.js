@@ -3,9 +3,9 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 
-// Geração dos parâmetros estáticos - agora é uma Promise corretamente resolvida
+// Geração dos parâmetros estáticos
 export async function generateStaticParams() {
-  const posts = await getAllPosts();
+  const posts = getAllPosts(); // getAllPosts é síncrono no seu código
   return posts.map((post) => ({
     slug: post.slug,
   }));
@@ -13,13 +13,12 @@ export async function generateStaticParams() {
 
 // Página principal
 export default async function PostPage({ params }) {
-  const post = await getPostBySlug(params.slug);
+  const { slug } = await params; // await para acessar slug async
 
-  // Verifica se o post existe
+  const post = getPostBySlug(slug);
   if (!post) return notFound();
 
-  // Garantir que 'content' seja uma string
-  const content = await post.content;
+  const content = post.content; // já é string, sem await
 
   return (
     <main className="bg-gradient-to-bl from-[#1A0530] via-[#48088b] to-[#1A0530] min-h-screen flex flex-col items-center justify-start p-8 pb-20 sm:p-20 font-[family-name:var(--font-geist-sans)] overflow-x-hidden">

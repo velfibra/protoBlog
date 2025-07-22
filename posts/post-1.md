@@ -10,21 +10,15 @@ Você não está sozinho. Isso acontece muito com roteadores comuns, que têm di
 
 Mas existe uma solução moderna pra isso: a **rede Mesh**, um jeito inteligente de espalhar Wi-Fi por todo o ambiente.
 
----
-
 ## **O que é rede Mesh?**
 
 Rede Mesh (lê-se "mésh") é um tipo de Wi-Fi que usa **vários aparelhos trabalhando juntos** para cobrir toda a sua casa ou empresa com sinal forte e estável.
 
 Esses aparelhos — chamados de "pontos de acesso" — ficam espalhados nos ambientes. Eles se comunicam entre si e **criam uma única rede**, mais inteligente, que acompanha você onde estiver, sem precisar mudar de rede no celular ou no computador.
 
----
-
 ## **Como isso funciona no dia a dia?**
 
 Imagine que você está vendo uma série na sala e vai para o quarto. Com Wi-Fi comum, o sinal pode cair ou travar. Com a rede Mesh, os aparelhos percebem sua movimentação e mudam automaticamente a conexão para o ponto mais próximo, **sem travar e sem cair**.
-
----
 
 ## **Quais são os benefícios da rede Mesh?**
 
@@ -44,8 +38,6 @@ Pode andar pela casa toda que o sinal não some. Tudo acontece de forma automát
 
 Com apps simples no celular, dá pra ver quem está conectado, pausar o Wi-Fi, mudar senhas e mais.
 
----
-
 ## **Pra quem é a rede Mesh?**
 
 - Quem mora em casa grande ou com dois andares;
@@ -53,8 +45,6 @@ Com apps simples no celular, dá pra ver quem está conectado, pausar o Wi-Fi, m
 - Ambientes com muitas paredes ou obstáculos;
 - Famílias com vários celulares, TVs e computadores conectados ao mesmo tempo;
 - Quem quer uma internet que **funciona de verdade** e sem dor de cabeça.
-
----
 
 ## **O que dizem os especialistas sobre a rede Mesh?**
 
@@ -67,8 +57,6 @@ IEEE (Instituto de Engenheiros Eletricistas e Eletrônicos)
 A <a href="https://www.cisco.com/c/pt_br/support/docs/smb/wireless/CB-Wireless-Mesh/1768-tzep-Cisco-Business-Introduces-Wireless-Mesh-Networking.html" target="_blank" rel="noopener noreferrer">Cisco</a>, empresa especialista em redes, afirma que a Mesh é perfeita para lugares com muitos dispositivos conectados ao mesmo tempo, porque ela permite que todos usem a internet ao mesmo tempo sem travar.
 
 E a <a href="https://www.tp-link.com/br/mesh-wifi/" target="_blank" rel="noopener noreferrer">TP-Link</a>, fabricante de roteadores Mesh, explica que esse sistema **mantém o Wi-Fi forte mesmo em casas grandes ou de dois andares**, sem precisar trocar de rede no celular.
-
----
 
 ## **A Velfibra instala a rede Mesh pra você! 💡**
 
