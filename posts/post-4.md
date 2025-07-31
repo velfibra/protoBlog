@@ -60,7 +60,7 @@ Nada de dividir banda com vizinhos. Aqui, o desempenho é exclusivo para você, 
 
 ### Tutorial: como testar ping de internet e jogos
 
-Você pode verificar a **latência da sua conexão em geral** usando o teste de ping da **Adamantiun**, que apresenta o resultado em milissegundos — ideal para avaliar se sua internet está rápida e estável.
+Você pode verificar a **latência da sua conexão em geral** usando o teste de ping da **Adamantiun**, que apresenta o resultado em milissegundos, ideal para avaliar se sua internet está rápida e estável.
 
 👉 [Teste de Ping da Adamantiun](https://www.adamantiun.com.br/teste-de-ping-2/)
 
