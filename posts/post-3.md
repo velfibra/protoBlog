@@ -60,7 +60,7 @@ Por isso, a Vel Fibra atua de forma ativa na comunidade com:
 
 ## O futuro é agora
 
-Mesmo com uma trajetória sólida de **12 anos**, nossa vontade de evoluir não para. A demanda por internet de qualidade cresce a cada dia — e com ela, cresce também nosso compromisso.
+Mesmo com uma trajetória sólida de **12 anos**, nossa vontade de evoluir não para. A demanda por internet de qualidade cresce a cada dia, e com ela, cresce também nosso compromisso.
 
 Estamos expandindo nossa estrutura, atualizando nossas tecnologias e mantendo o mesmo cuidado com cada cliente que confia na Vel Fibra.
 
