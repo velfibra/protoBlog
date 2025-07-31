@@ -47,7 +47,7 @@ Como uma empresa local, entendemos as necessidades e desafios da comunidade. É 
 
 ## A Velfibra leva fibra óptica até você! 🚀
 
-Aqui na **Velfibra**, usamos **fibra óptica de ponta a ponta**, garantindo o máximo desempenho da sua internet — sem gambiarras, sem "meio a meio".
+Aqui na **Velfibra**, usamos **fibra óptica de ponta a ponta**, garantindo o máximo desempenho da sua internet, sem gambiarras, sem "meio a meio".
 
 📍 Se você está cansado de lentidão, instabilidade e promessas não cumpridas, fale com a gente. Vamos levar **velocidade de verdade** até sua casa ou empresa.
 

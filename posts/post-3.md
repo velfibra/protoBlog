@@ -8,21 +8,21 @@ image: "/Vel Fibra.png"
 
 Tudo começou há **12 anos**, com uma ideia simples, mas poderosa: levar internet rápida, estável e justa para a população de Belém. Na época, poucas opções existiam, e muitas delas deixavam os usuários na mão.
 
-Foi então que nasceu a **Vel Fibra**, com o objetivo de **mudar essa realidade** e entregar algo que fosse além do sinal de internet — entregar confiança, transparência e conexão humana.
+Foi então que nasceu a **Vel Fibra**, com o objetivo de **mudar essa realidade** e entregar algo que fosse além do sinal de internet, entregar confiança, transparência e conexão humana.
 
 ## Nossa casa no coração do Guamá
 
 É do **bairro do Guamá**, um dos mais tradicionais de Belém, que coordenamos tudo com orgulho e dedicação.
 
 📍 **Endereço da sede:**  
-Rua Barão de Igarapé Miri, 935 e 923 – Guamá, Belém – PA  
+Rua Barão de Igarapé Miri, 935 e 923 - Guamá, Belém - PA  
 CEP: 66075-045
 
 Esse é o ponto de partida das nossas operações, onde recebemos clientes, treinamos nossos técnicos e planejamos melhorias constantes. Estamos próximos da comunidade porque acreditamos que **proximidade gera confiança**.
 
 ## Uma década de evolução constante
 
-Com o passar dos anos, a Vel Fibra cresceu — mas sem perder sua essência. De uma empresa pequena, nos tornamos um dos provedores mais respeitados da região, com cobertura em **mais de 30 bairros de Belém e Ananindeua**.
+Com o passar dos anos, a Vel Fibra cresceu, mas sem perder sua essência. De uma empresa pequena, nos tornamos um dos provedores mais respeitados da região, com cobertura em **mais de 30 bairros de Belém e Ananindeua**.
 
 A nossa trajetória foi construída com:
 
@@ -47,7 +47,7 @@ Para conferir os detalhes desses reconhecimentos, acesse: [MelhorPlano.net - Pre
 
 ## Mais do que internet: um compromisso com a comunidade
 
-Para nós, conexão vai além da tecnologia — ela também se expressa no compromisso com o lugar onde nascemos e crescemos.
+Para nós, conexão vai além da tecnologia, ela também se expressa no compromisso com o lugar onde nascemos e crescemos.
 
 Por isso, a Vel Fibra atua de forma ativa na comunidade com:
 
@@ -67,4 +67,4 @@ Estamos expandindo nossa estrutura, atualizando nossas tecnologias e mantendo o 
 Se você já faz parte da nossa história, obrigado por caminhar com a gente.  
 Se ainda não conhece nossa internet, venha descobrir **o que é conexão de verdade**.
 
-**Vel Fibra — Quem tem, fala bem.**
+**Vel Fibra, Quem tem, fala bem.**
