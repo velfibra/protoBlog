@@ -60,11 +60,11 @@ Nada de dividir banda com vizinhos. Aqui, o desempenho é exclusivo para você, 
 
 ### Tutorial: como testar ping de internet e jogos
 
-Você pode verificar a **latência da sua conexão em geral** usando o teste de ping da **Adamantiun**, que apresenta o resultado em milissegundos — ideal para avaliar se sua internet está rápida e estável :contentReference[oaicite:5]{index=5}.
+Você pode verificar a **latência da sua conexão em geral** usando o teste de ping da **Adamantiun**, que apresenta o resultado em milissegundos — ideal para avaliar se sua internet está rápida e estável.
 
 👉 [Teste de Ping da Adamantiun](https://www.adamantiun.com.br/teste-de-ping-2/)
 
-Se você quiser saber o **ping por jogo específico**, como Valorant, LoL, Fortnite ou outros, experimente o **GameServerPing**. Ele permite selecionar cada jogo ou servidor e mostra o ping ideal para entender como sua conexão se comporta em partidas reais :contentReference[oaicite:6]{index=6}.
+Se você quiser saber o **ping por jogo específico**, como Valorant, LoL, Fortnite ou outros, experimente o **GameServerPing**. Ele permite selecionar cada jogo ou servidor e mostra o ping ideal para entender como sua conexão se comporta em partidas reais.
 
 👉 [GameServerPing – teste por jogo](https://gameserverping.com/)
 
